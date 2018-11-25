@@ -1,0 +1,223 @@
+digraph {
+    "Python" [style = filled, fillcolor = powderblue]
+    "Integer" [style = filled, fillcolor = powderblue]
+    "input/output" [style = filled, fillcolor = powderblue]
+    "data type" [style = filled, fillcolor = powderblue]
+    "statement" [style = filled, fillcolor = powderblue]
+    "Modulo operation" [style = filled, fillcolor = powderblue]
+    "while loop" [style = filled, fillcolor = powderblue]
+    "exponentiation" [style = filled, fillcolor = powderblue]
+    "Conditional" [style = filled, fillcolor = powderblue]
+    "logical connective" [style = filled, fillcolor = powderblue]
+    "floating point" [style = filled, fillcolor = powderblue]
+    "for loop" [style = filled, fillcolor = powderblue]
+    "factorial" [style = filled, fillcolor = powderblue]
+    "string" [style = filled, fillcolor = powderblue]
+    "character" [style = filled, fillcolor = powderblue]
+    "associative array" [style = filled, fillcolor = powderblue]
+    "abstract data type" [style = filled, fillcolor = powderblue]
+    "loop" [style = filled, fillcolor = powderblue]
+    "Hello world program" [style = filled, fillcolor = powderblue]
+    "greedy algorithm" [style = filled, fillcolor = powderblue]
+    "algorithm" [style = filled, fillcolor = powderblue]
+    "Huffman coding" [style = filled, fillcolor = powderblue]
+    "Divide and rule" [style = filled, fillcolor = powderblue]
+    "dynamic programming" [style = filled, fillcolor = powderblue]
+    "binary search" [style = filled, fillcolor = powderblue]
+    "sorting algorithm" [style = filled, fillcolor = powderblue]
+    "priority queue" [style = filled, fillcolor = powderblue]
+    "hash table" [style = filled, fillcolor = powderblue]
+    "tree" [style = filled, fillcolor = powderblue]
+    "binary tree" [style = filled, fillcolor = powderblue]
+    "NumPy" [style = filled, fillcolor = powderblue]
+    "Comma-separated values" [style = filled, fillcolor = powderblue]
+    "library" [style = filled, fillcolor = powderblue]
+    "text file" [style = filled, fillcolor = powderblue]
+    "Apache Hadoop" [style = filled, fillcolor = powderblue]
+    "MapReduce" [style = filled, fillcolor = powderblue]
+    "discrete mathematics" [style = filled, fillcolor = powderblue]
+    "combinatorics" [style = filled, fillcolor = powderblue]
+    "system of linear equations" [style = filled, fillcolor = powderblue]
+    "Catalan number" [style = filled, fillcolor = powderblue]
+    "class" [style = filled, fillcolor = powderblue]
+    "object-oriented programming" [style = filled, fillcolor = powderblue]
+    "inheritance" [style = filled, fillcolor = powderblue]
+    "encoding" [style = filled, fillcolor = powderblue]
+    "list" [style = filled, fillcolor = powderblue]
+    "subroutine" [style = filled, fillcolor = powderblue]
+    "generator" [style = filled, fillcolor = powderblue]
+    "array data structure" [style = filled, fillcolor = powderblue]
+    "set" [style = filled, fillcolor = powderblue]
+    "Recursion" [style = filled, fillcolor = powderblue]
+    "anonymous function" [style = filled, fillcolor = powderblue]
+    "regular expression" [style = filled, fillcolor = powderblue]
+    "exception handling" [style = filled, fillcolor = powderblue]
+    "Iterator" [style = filled, fillcolor = powderblue]
+    "API" [style = filled, fillcolor = powderblue]
+    "Fibonacci number" [style = filled, fillcolor = powderblue]
+    "Euclidean algorithm" [style = filled, fillcolor = powderblue]
+    "permutation" [style = filled, fillcolor = powderblue]
+    "Adjacency matrix" [style = filled, fillcolor = powderblue]
+    "Namespace" [style = filled, fillcolor = powderblue]
+    "JavaScript Object Notation" [style = filled, fillcolor = powderblue]
+    "XML" [style = filled, fillcolor = powderblue]
+    "HTML" [style = filled, fillcolor = powderblue]
+    "ASCII" [style = filled, fillcolor = powderblue]
+    "Suffix tree" [style = filled, fillcolor = powderblue]
+    "Karatsuba algorithm" [style = filled, fillcolor = powderblue]
+    "stack" [style = filled, fillcolor = powderblue]
+    "statistics" [style = filled, fillcolor = powderblue]
+    "histogram" [style = filled, fillcolor = powderblue]
+    "Linear regression" [style = filled, fillcolor = powderblue]
+    "parity" [style = filled, fillcolor = powderblue]
+    "even number" [style = filled, fillcolor = powderblue]
+    "data type" -> "data structure"
+    "data type" -> "class"
+    "while loop" -> "loop"
+    "Conditional" -> "statement"
+    "for loop" -> "loop"
+    "string" -> "data type"
+    "string" -> "series"
+    "associative array" -> "abstract data type"
+    "loop" -> "control flow"
+    "loop" -> "statement"
+    "greedy algorithm" -> "algorithm"
+    "hash table" -> "associative array"
+    "hash table" -> "data structure"
+    "tree" -> "data structure"
+    "tree" -> "abstract data type"
+    "binary tree" -> "arborescence"
+    "binary tree" -> "k-ary tree"
+    "binary tree" -> "tree data structure"
+    "binary tree" -> "abstract data type"
+    "combinatorics" -> "area of mathematics"
+    "combinatorics" -> "discrete mathematics"
+    "inheritance" -> "object-oriented programming"
+    "inheritance" -> "concept"
+    "list" -> "abstract data type"
+    "generator" -> "subroutine"
+    "set" -> "abstract data type"
+    "Euclidean algorithm" -> "algorithm"
+    "stack" -> "abstract data type"
+    "histogram" -> "statistics"
+    "statement" -> "control flow"
+    "statement" -> "imperative programming language"
+    "statement" -> "computer program"
+    "Python" -> "imperative programming language"
+    "character" -> "primitive data type"
+    "Integer" -> "primitive data type"
+    "array data structure" -> "data structure"
+    "exception handling" -> "control flow"
+    "subroutine" -> "control flow"
+    "subroutine" -> "computer program"
+    "Hello world program" -> "computer program"
+    "algorithm" -> "mathematics"
+    "factorial" -> "function"
+    "factorial" -> "mathematics"
+    "statistics" -> "mathematics"
+    "text file" -> "file format"
+    "HTML" -> "markup language"
+    "HTML" -> "file format"
+    "Comma-separated values" -> "delimiter-separated values"
+    "Comma-separated values" -> "file format"
+    "JavaScript Object Notation" -> "data serialization format"
+    "JavaScript Object Notation" -> "file format"
+    "XML" -> "data serialization format"
+    "XML" -> "markup language"
+    "XML" -> "file format"
+    "MapReduce" -> "programming paradigm"
+    "object-oriented programming" -> "structured programming"
+    "object-oriented programming" -> "programming paradigm"
+    "discrete mathematics" -> "area of mathematics"
+    "class" -> "concept"
+    "Fibonacci number" -> "type of number"
+    "Fibonacci number" -> "element"
+    "Fibonacci number" -> "integer"
+    "even number" -> "type of number"
+    "even number" -> "integer"
+    "primitive data type" -> "data type"
+    "Modulo operation" -> "binary operation"
+    "binary operation" -> "operation"
+    "operation" -> "function"
+    "operation" -> "mathematics"
+    "exponentiation" -> "operation"
+    "function" -> "mathematics"
+    "function" -> "mathematical concept"
+    "logical connective" -> "operator"
+    "operator" -> "mathematical symbol"
+    "mathematical symbol" -> "character"
+    "floating point" -> "computer numbering format"
+    "computer numbering format" -> "data type"
+    "mathematical concept" -> "concept"
+    "series" -> "group"
+    "group" -> "class"
+    "Huffman coding" -> "compression algorithm"
+    "compression algorithm" -> "algorithm"
+    "Divide and rule" -> "sociological concept"
+    "Divide and rule" -> "political concept"
+    "political concept" -> "concept"
+    "sociological concept" -> "concept"
+    "binary search" -> "divide and conquer algorithm"
+    "binary search" -> "search algorithm"
+    "divide and conquer algorithm" -> "algorithm"
+    "search algorithm" -> "algorithm"
+    "sorting algorithm" -> "combinatorial algorithm"
+    "combinatorial algorithm" -> "algorithm"
+    "tree data structure" -> "data structure"
+    "tree data structure" -> "abstract data type"
+    "k-ary tree" -> "arborescence"
+    "k-ary tree" -> "tree data structure"
+    "arborescence" -> "tree"
+    "NumPy" -> "mathematical software"
+    "mathematical software" -> "type of software"
+    "type of software" -> "class"
+    "file format" -> "file format family"
+    "file format family" -> "class"
+    "delimiter-separated values" -> "data serialization format"
+    "library" -> "type of software"
+    "library" -> "programming tool"
+    "programming tool" -> "type of software"
+    "programming tool" -> "utility software"
+    "utility software" -> "computer program"
+    "Apache Hadoop" -> "software framework"
+    "software framework" -> "type of software"
+    "software framework" -> "computer program"
+    "Catalan number" -> "positive integer"
+    "positive integer" -> "positive real number"
+    "positive integer" -> "type of number"
+    "positive integer" -> "natural number"
+    "positive integer" -> "non-negative integer"
+    "positive real number" -> "type of number"
+    "natural number" -> "type of number"
+    "non-negative integer" -> "type of number"
+    "non-negative integer" -> "integer"
+    "concept" -> "mental representation"
+    "mental representation" -> "concept"
+    "structured programming" -> "programming paradigm"
+    "regular expression" -> "string algorithm"
+    "regular expression" -> "pattern matching"
+    "pattern matching" -> "algorithm"
+    "string algorithm" -> "algorithm"
+    "integer" -> "type of number"
+    "integer" -> "number with finite decimal representations"
+    "integer" -> "real number"
+    "real number" -> "type of number"
+    "number with finite decimal representations" -> "type of number"
+    "element" -> "set"
+    "permutation" -> "bijection"
+    "bijection" -> "map"
+    "map" -> "mathematics"
+    "Adjacency matrix" -> "square matrix"
+    "square matrix" -> "matrix"
+    "matrix" -> "array data structure"
+    "markup language" -> "software component"
+    "software component" -> "computer program"
+    "ASCII" -> "coded character set"
+    "coded character set" -> "character set"
+    "character set" -> "set"
+    "Karatsuba algorithm" -> "multiplication algorithm"
+    "multiplication algorithm" -> "algorithm"
+    "parity" -> "property"
+    "property" -> "category of being"
+    "category of being" -> "concept"
+}
